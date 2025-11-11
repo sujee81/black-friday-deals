@@ -17,6 +17,7 @@ Please follow the rules below:
 |💸|[Shakkei](https://shakkei.app/?ref=Black+Friday+Deals+GH)| The perfect ambience for your macOS workspace | 25% OFF with code **BF25**|
 |🤑|[Sitely 6](https://sitely.app/) | Visual + AI Website Builder for macOS | **50%** OFF NO CODE REQUIRED ** |
 |💸|[Wins](https://wins.cool)| Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF with code **BLACKFRIDAY2025**|
+|🤑|[TextSniper](https://textsniper.app) | Copy and paste uncopyable text from your Mac's screen, listen to it with text-to-speech, or scan QR codes instantly. | 75% OFF with code **BFD2025** |
 
 ---
 
